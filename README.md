@@ -1,1 +1,1 @@
-My first Laravel project. Basically did some simple routing like group routing naming and paramaters. Also added a view pages and setup a live testing server.
+My first Laravel project. Basically did some simple routing like group routing naming and paramaters. Also added a view pages and setup a live testing server. And installed a package manager and setup CSS and JS Intergration for the test server.
